@@ -1,0 +1,18 @@
+{
+  "name": "jsdayes-2018-examples",
+  "version": "1.0.0",
+  "description": "Examples developed for my Commit Conf 2018 talk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "axe-core": "^3.1.2",
+    "chalk": "^2.4.1",
+    "lighthouse": "^3.2.1",
+    "ora": "^3.0.0",
+    "puppeteer": "^1.9.0",
+    "url": "^0.11.0"
+  }
+}
