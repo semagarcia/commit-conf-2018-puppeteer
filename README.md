@@ -1,7 +1,7 @@
 # Commit Conf 2018 - Adding software quality with Puppeteer
 
 ## Introduction
-Within this repo are hosted the examples used in my about Puppeteer and its use for giving quality to web applications beyond the unit testing. This talk aims to show different approaches to complement other traditional quality assurance techniques.
+Within this repo are hosted the examples used in my about Puppeteer and its use for giving quality to web applications beyond the unit testing. This talk aims to show different approaches to complement other traditional quality assurance techniques. The presentation can be found [here](https://es.slideshare.net/sema_hkd/commit-conf-2018-testing-qa-y-puppeteer)
 
 ## Examples
 The examples are structured in the following way:
